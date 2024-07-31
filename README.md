@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electrical Engineering student at TAU<br><br>🔭 I’m currently working on QR code generator using Numpy<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning C<br>💬 Ask me about my library room reservation auto pilot
+Electrical Engineering student at TAU<br><br>🔭 I’m currently working on a phonetic similarity score algorithm<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning C<br>💬 Ask me about my library room reservation auto pilot
 
 
 # 💻 Tech Stack:
